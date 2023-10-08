@@ -1,0 +1,26 @@
+{
+  "sessionId": "0c1c7146affd66acd0a4585660c8b87b",
+  "capabilities": {
+    "acceptInsecureCerts": false,
+    "browserName": "chrome",
+    "browserVersion": "114.0.5735.91",
+    "chrome": {
+      "chromedriverVersion": "113.0.5672.63 (0e1a4471d5ae5bf128b1bd8f4d627c8cbd55f70c-refs/branch-heads/5672@{#912})",
+      "userDataDir": "C:\\Users\\Dimedrol\\AppData\\Local\\Temp\\scoped_dir2432_1738301203"
+    },
+    "goog:chromeOptions": { "debuggerAddress": "localhost:60092" },
+    "networkConnectionEnabled": false,
+    "pageLoadStrategy": "normal",
+    "platformName": "windows",
+    "proxy": {},
+    "setWindowRect": true,
+    "strictFileInteractability": false,
+    "timeouts": { "implicit": 0, "pageLoad": 300000, "script": 30000 },
+    "unhandledPromptBehavior": "dismiss and notify",
+    "webauthn:extension:credBlob": true,
+    "webauthn:extension:largeBlob": true,
+    "webauthn:extension:minPinLength": true,
+    "webauthn:extension:prf": true,
+    "webauthn:virtualAuthenticators": true
+  }
+}

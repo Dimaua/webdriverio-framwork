@@ -1,0 +1,34 @@
+{
+	"sessionId": "c7c50a191794d3d569e31cb85b0899a5",
+	"elementId": "855D04690F8A75EE359ADFF16C138880_element_11",
+	"element-6066-11e4-a52e-4f735466cecf": "855D04690F8A75EE359ADFF16C138880_element_11",
+	"selector": "#contact_reply > h1",
+	"parent": {
+		"sessionId": "c7c50a191794d3d569e31cb85b0899a5",
+		"capabilities": {
+			"acceptInsecureCerts": false,
+			"browserName": "chrome",
+			"browserVersion": "114.0.5735.91",
+			"chrome": {
+				"chromedriverVersion": "113.0.5672.63 (0e1a4471d5ae5bf128b1bd8f4d627c8cbd55f70c-refs/branch-heads/5672@{#912})",
+				"userDataDir": "C:\\Users\\Dimedrol\\AppData\\Local\\Temp\\scoped_dir9652_2101806013"
+			},
+			"goog:chromeOptions": { "debuggerAddress": "localhost:52965" },
+			"networkConnectionEnabled": false,
+			"pageLoadStrategy": "normal",
+			"platformName": "windows",
+			"proxy": {},
+			"setWindowRect": true,
+			"strictFileInteractability": false,
+			"timeouts": { "implicit": 0, "pageLoad": 300000, "script": 30000 },
+			"unhandledPromptBehavior": "dismiss and notify",
+			"webauthn:extension:credBlob": true,
+			"webauthn:extension:largeBlob": true,
+			"webauthn:extension:minPinLength": true,
+			"webauthn:extension:prf": true,
+			"webauthn:virtualAuthenticators": true
+		}
+	},
+	"isReactElement": false,
+	"isShadowElement": false
+}
